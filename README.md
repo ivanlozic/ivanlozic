@@ -2,7 +2,7 @@
 
 I'm Ivan, a passionate Full-stack developer with a love for building web applications and exploring new technologies. I'm dedicated to creating elegant and efficient solutions for complex problems, and I thrive on collaborating with others to bring innovative ideas to life.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,nodejs,express,mongodb,git,github,figma,ai,netlify)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,nodejs,express,nestjs,postgresql,mongodb,git,github,figma,)](https://skillicons.dev)
 
 💼 What I'm up to:
 - Building exciting web applications.
