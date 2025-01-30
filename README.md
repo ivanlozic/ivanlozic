@@ -11,6 +11,5 @@ I'm Ivan, a passionate Full-stack developer with a love for building web applica
 - Constantly learning and growing in the ever-evolving world of web development.
 
 📫 Let's connect:
-- LinkedIn: https://www.linkedin.com/in/ivan-lozi%C4%87-b72126221/
-
+- LinkedIn: https://www.linkedin.com/in/ivan-lozic/
 Feel free to explore my repositories, and don't hesitate to reach out if you have any questions or interesting collaboration opportunities. Let's create amazing things together! 🚀
